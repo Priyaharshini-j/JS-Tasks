@@ -1,0 +1,48 @@
+.weather-type{
+    width: 170px;
+    margin-top:20px;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 10px;
+    line-height: 15px;
+}
+
+p, h2, h1, h3, h5 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-weight: 600;
+    font-family: 26px;
+    text-align: center;
+    
+}
+
+img{
+    width:40px;
+}
+
+.forecast{
+    background-color: azure;
+    color: black;
+    border-radius: 7px;
+}
+
+.forecast div{
+    margin-left: 20px;
+}
+
+.forecast p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.datetime{
+    font-size: 24px;
+    font-weight: 600;
+}
